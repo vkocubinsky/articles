@@ -534,7 +534,7 @@ $d - \frac{1}{2}m \lt A \le d + \frac{1}{2}m$. In particular if $m = d$ then
 $d - \frac{1}{2}d \lt A \le d + \frac{1}{2}d$. Last partition may have less 
 accurate value.
 
-The algorithm can be called as  "a half -- one and a half".
+The algorithm can be called as  **a half -- one and a half**.
 
 
 
