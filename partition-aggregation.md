@@ -528,8 +528,8 @@ also acceptable to have value is an integer and desired value is a real.
  ## Conclusion
  
 We have represented algorithm for aggregate list of small partitions into list
-of big partitions with desired value $d$. If value $x$ of small partition $0
-\le x \le m \le d$, then the value of big partition $A$ for non last partition 
+of big partitions with desired value $d$. If value $x$ of small partition 
+$0 \le x \le m \le d$, then the value of big partition $A$ for non last partition 
 $d - \frac{1}{2}m \lt A \le d + \frac{1}{2}m$. In particular if $m = d$ then 
 $d - \frac{1}{2}d \lt A \le d + \frac{1}{2}d$. Last partition may have less 
 accurate value.
