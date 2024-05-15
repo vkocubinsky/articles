@@ -4,6 +4,17 @@
 
 * Wednesday, 22 February, 2023
     - First Draft
+* Wednesday, 15 May, 2024
+    - Add about section
+
+## About 
+
+In this article I described algorithm which I used for many years for different
+applications. Probably since 2011. The algorithm aggregates small
+partitions(chunks) into bigger partitions(chunks). On first glance it looks
+trivial, however it has subtle details which described in the article. Also I
+gave and proved estimate for bigger partition(chunk) boundary for case when 
+small partition(chunk) has size less or equal to desired big partition size.
 
 ## Algorithm
 
